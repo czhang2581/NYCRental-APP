@@ -148,7 +148,7 @@ ui =  navbarPage(
               ),
             fluidRow(
              column(width=6, uiOutput("author")),
-             column(width=3,tags$img(src = "nyc.png", height=200, width=280)
+             column(width=4,tags$img(src = "nyc.png", height=200, width=300)
               )
             )
            
